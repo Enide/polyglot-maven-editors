@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Atom Editor for Polyglot Maven
 Bundle-SymbolicName: org.nodeclipse.enide.editors.pom.atom;singleton:=true
-Bundle-Version: 0.17.0.qualifier
+Bundle-Version: 0.1.0.qualifier
 Bundle-Activator: org.nodeclipse.enide.editors.pom.atom.Activator
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,

@@ -2,6 +2,8 @@
 target/
 bin/
 
+.polyglot.build.properties
+
 .metadata
 /.*.md.html
 #*.settings/
