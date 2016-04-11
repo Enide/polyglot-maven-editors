@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+<!-- default="true" -->
+   <extension
+         point="org.eclipse.ui.editors">
+      <editor
+            class="org.nodeclipse.enide.editors.pom.atom.editors.Editor"
+            contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"            
+            extensions="atom"
+            icon="icons/gradle-icon-16x16.png"
+            id="org.nodeclipse.enide.editors.pom.atom.Editor"
+            name="Atom Editor for Polyglot Maven">
+      </editor>
+   </extension>
+   
+   
+  <extension
+         point="org.eclipse.core.runtime.preferences">
+      <initializer
+            class="org.nodeclipse.enide.editors.pom.atom.preferences.EditorPreferenceInitializer">
+      </initializer>
+  </extension>
+    <extension
+         point="org.eclipse.ui.preferencePages">
+      <page
+      		category="org.nodeclipse.enide.editors.pom.atom.preferences.GradlePreferencePage"
+            class="org.nodeclipse.enide.editors.pom.atom.preferences.EditorPreferencePage"
+            id="org.nodeclipse.enide.editors.pom.atom.preferences.GradleEditorPreferencePage"
+            name="Atom Editor for Polyglot Maven">
+      </page>
+   </extension>
+   
+   
+</plugin>
