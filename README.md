@@ -17,3 +17,7 @@ and then maybe find some foundation for Editors in Nodeclipse
 
 - Check open issues
  
+ ## Links
+ 
+ - https://github.com/takari/polyglot-maven
+ - https://github.com/takari/polyglot-maven-examples
