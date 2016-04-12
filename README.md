@@ -21,3 +21,4 @@ and then maybe find some foundation for Editors in Nodeclipse
  
  - https://github.com/takari/polyglot-maven
  - https://github.com/takari/polyglot-maven-examples
+ - https://github.com/jbosstools/m2e-polyglot-poc
