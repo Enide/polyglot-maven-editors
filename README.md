@@ -1,4 +1,6 @@
 
+![](images/maven-owl-groovy.png)
+
 This is done to make minimalist Gradle Editor,
 and play with Eclipse Editor API,
 and then maybe find some foundation for Editors in Nodeclipse
