@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Atom Editor for Polyglot Maven
+Bundle-SymbolicName: org.nodeclipse.enide.editors.pom.groovy;singleton:=true
+Bundle-Version: 0.1.0.qualifier
+Bundle-Activator: org.nodeclipse.enide.editors.pom.groovy.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.core.resources,
+ org.eclipse.ui.ide,
+ org.eclipse.jface.text,
+ org.eclipse.ui.editors
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: org.nodeclipse.enide.editors.pom.groovy
+Bundle-Vendor: Nodeclipse/Enide (by Paul Verest)
