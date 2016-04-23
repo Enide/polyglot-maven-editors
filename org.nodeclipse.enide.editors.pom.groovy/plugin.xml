@@ -8,7 +8,7 @@
       <editor
             class="org.nodeclipse.enide.editors.pom.groovy.editor.Editor"
             contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"            
-            extensions="groovy"
+            extensions="groovy,gy"
             icon="icons/maven-owl-groovy_16x16.png"
             id="org.nodeclipse.enide.editors.pom.grovy.Editor"
             name="Groovy Editor for Polyglot Maven">
