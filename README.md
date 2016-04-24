@@ -1,4 +1,6 @@
 
+[![Build Status](https://secure.travis-ci.org/Enide/polyglot-maven-editors.png)](http://travis-ci.org/Enide/polyglot-maven-editors)
+
 ![](images/maven-owl-groovy.png)
 
 This is done to make minimalist Gradle Editor,
