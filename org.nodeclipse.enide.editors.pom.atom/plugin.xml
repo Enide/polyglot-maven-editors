@@ -9,7 +9,7 @@
             class="org.nodeclipse.enide.editors.pom.atom.editors.Editor"
             contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"            
             extensions="atom"
-            icon="icons/gradle-icon-16x16.png"
+            icon="icons/atom_16x16.png"
             id="org.nodeclipse.enide.editors.pom.atom.Editor"
             name="Atom Editor for Polyglot Maven">
       </editor>

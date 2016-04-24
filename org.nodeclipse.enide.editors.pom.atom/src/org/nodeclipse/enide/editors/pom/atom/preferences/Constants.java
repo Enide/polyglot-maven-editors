@@ -11,7 +11,7 @@ public class Constants {
 	//public static final String PREFERENCES_PAGE = "org.nodeclipse.ui.preferences.NodePreferencePage";
 
 	public static final String PLUGIN_ID = "org.nodeclipse.enide.editors.pom.atom";
-	public static final String ICON_PATH = "icons/gradle-icon-16x16.png";
+	public static final String ICON_PATH = "icons/atom_16x16.png";
 	
 	public static final String DESCRIPTION = "Atom Editor for Polyglot Maven";
 	
