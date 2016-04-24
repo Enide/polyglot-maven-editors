@@ -5,7 +5,9 @@
 
 This is done to make minimalist Gradle Editor,
 and play with Eclipse Editor API,
-and then maybe find some foundation for Editors in Nodeclipse
+and then maybe find some foundation for Editors in Nodeclipse, but it just as it.
+
+And now there are simple editors for .atom and .groovy/.gy for [Polyglot Maven](https://github.com/takari/polyglot-maven)
 
 
 ## Using
