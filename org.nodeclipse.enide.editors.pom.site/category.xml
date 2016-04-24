@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.nodeclipse.enide.editors.pom.atom.feature_0.0.0.qualifier.jar" 
+   id="org.nodeclipse.enide.editors.pom.atom.feature" version="0.0.0">
+      <category name="enide.editors.pom"/>
+   </feature>
+   <feature url="features/org.nodeclipse.enide.editors.pom.groovy.feature_0.0.0.qualifier.jar" 
+   id="org.nodeclipse.enide.editors.pom.groovy.feature" version="0.0.0">
+      <category name="enide.editors.pom"/>
+   </feature>
+   <category-def name="enide.editors.pom" label="Polyglot Maven Editors (Enide)">
+      <description>
+         Polyglot Maven Editors 
+         https://github.com/nodeclipse/polyglot-maven-editors
+      </description>
+   </category-def>
+</site>

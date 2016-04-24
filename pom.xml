@@ -90,7 +90,10 @@
 
 	<modules>
 		<module>org.nodeclipse.enide.editors.pom.atom</module>
-		
+		<module>org.nodeclipse.enide.editors.pom.groovy</module>
+		<module>features/org.nodeclipse.enide.editors.pom.atom.feature</module>
+		<module>features/org.nodeclipse.enide.editors.pom.groovy.feature</module>
+		<module>org.nodeclipse.enide.editors.pom.site</module>
 	</modules>
 
 	<repositories>
