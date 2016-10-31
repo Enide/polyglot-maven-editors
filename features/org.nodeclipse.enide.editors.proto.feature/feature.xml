@@ -24,7 +24,7 @@ See https://github.com/Nodeclipse/polyglot-maven-editors
    </url>
 
    <plugin
-         id="org.nodeclipse.enide.editors.pom.groovy"
+         id="org.nodeclipse.enide.editors.proto"
          download-size="0"
          install-size="0"
          version="0.0.0"
