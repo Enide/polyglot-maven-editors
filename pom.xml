@@ -83,7 +83,7 @@
 	</prerequisites>
 
 	<properties>
-		<tycho-version>0.24.0</tycho-version>
+		<tycho-version>0.26.0</tycho-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
@@ -91,6 +91,7 @@
 	<modules>
 		<module>org.nodeclipse.enide.editors.pom.atom</module>
 		<module>org.nodeclipse.enide.editors.pom.groovy</module>
+		<module>org.nodeclipse.enide.editors.proto</module>
 		<module>features/org.nodeclipse.enide.editors.pom.atom.feature</module>
 		<module>features/org.nodeclipse.enide.editors.pom.groovy.feature</module>
 		<module>org.nodeclipse.enide.editors.pom.site</module>

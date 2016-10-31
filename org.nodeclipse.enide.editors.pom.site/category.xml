@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
+   <category-def name="enide.editors.pom" label="Polyglot Maven Editors (Enide)">
+      <description>
+         Polyglot Maven Editors 
+         https://github.com/nodeclipse/polyglot-maven-editors
+      </description>
+   </category-def>
+
    <feature url="features/org.nodeclipse.enide.editors.pom.atom.feature_0.0.0.qualifier.jar" 
    id="org.nodeclipse.enide.editors.pom.atom.feature" version="0.0.0">
       <category name="enide.editors.pom"/>
@@ -8,10 +15,16 @@
    id="org.nodeclipse.enide.editors.pom.groovy.feature" version="0.0.0">
       <category name="enide.editors.pom"/>
    </feature>
-   <category-def name="enide.editors.pom" label="Polyglot Maven Editors (Enide)">
+
+   <category-def name="enide.editors.proto" label="Polyglot Maven Editors (Enide)">
       <description>
-         Polyglot Maven Editors 
+         Minimalist .proto files Editor (for Protol Buffers and gRPC)
          https://github.com/nodeclipse/polyglot-maven-editors
       </description>
    </category-def>
+   <feature url="features/org.nodeclipse.enide.editors.proto.feature_0.0.0.qualifier.jar" 
+   id="org.nodeclipse.enide.editors.proto.feature" version="0.0.0">
+      <category name="enide.editors.proto"/>
+   </feature>
+
 </site>
