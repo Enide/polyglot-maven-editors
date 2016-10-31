@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+<!-- default="true" -->
+   <extension
+         point="org.eclipse.ui.editors">
+      <editor
+            class="org.nodeclipse.enide.editors.proto.editor.Editor"
+            contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"            
+            extensions="prot"
+            icon="icons/proto_16x16.png"
+            id="org.nodeclipse.enide.editors.proto.Editor"
+            name="proto[col buffers] files Minimalist Editor">
+      </editor>
+   </extension>
+   
+   
+  <extension
+         point="org.eclipse.core.runtime.preferences">
+      <initializer
+            class="org.nodeclipse.enide.editors.proto.preferences.EditorPreferenceInitializer">
+      </initializer>
+  </extension>
+    <extension
+         point="org.eclipse.ui.preferencePages">
+      <page
+      		category="org.nodeclipse.enide.editors.proto.preferences.ProtoPreferencePage"
+            class="org.nodeclipse.enide.editors.proto.preferences.EditorPreferencePage"
+            id="org.nodeclipse.enide.editors.proto.preferences.ProtoEditorPreferencePage"
+            name="proto files Minimalist Editor">
+      </page>
+   </extension>
+   
+   
+</plugin>
