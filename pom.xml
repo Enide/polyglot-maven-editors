@@ -94,6 +94,7 @@
 		<module>org.nodeclipse.enide.editors.proto</module>
 		<module>features/org.nodeclipse.enide.editors.pom.atom.feature</module>
 		<module>features/org.nodeclipse.enide.editors.pom.groovy.feature</module>
+		<module>features/org.nodeclipse.enide.editors.proto.feature</module>
 		<module>org.nodeclipse.enide.editors.pom.site</module>
 	</modules>
 
