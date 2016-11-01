@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="org.nodeclipse.enide.editors.proto.feature"
-      label="Minimalist .proto files Editor (for Protol Buffers and gRPC)"
+      label="Minimalist .proto files Editor (for Protocol Buffers and gRPC)"
       version="0.1.0.qualifier"
       provider-name="Nodeclipse/Enide">
 
    <description url="http://www.nodeclipse.org/">
-      Minimalist .proto files Editor (for Protol Buffers and gRPC).
+      Minimalist .proto files Editor (for Protocol Buffers and gRPC).
 See https://github.com/Nodeclipse/polyglot-maven-editors
    </description>
 

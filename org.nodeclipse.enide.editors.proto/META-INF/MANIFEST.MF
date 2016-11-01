@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Minimalist .proto files Editor (for Protol Buffers and gRPC)
+Bundle-Name: Minimalist .proto files Editor (for Protocol Buffers and gRPC)
 Bundle-SymbolicName: org.nodeclipse.enide.editors.proto;singleton:=true
 Bundle-Version: 0.1.0.qualifier
 Bundle-Activator: org.nodeclipse.enide.editors.proto.Activator

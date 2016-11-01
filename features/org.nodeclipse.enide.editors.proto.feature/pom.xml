@@ -15,6 +15,6 @@
 	<packaging>eclipse-feature</packaging>
 	
 	<name>Minimalist .proto files Editor (feature)</name>
-	<description>Minimalist .proto files Editor (for Protol Buffers and gRPC) (feature)</description>
+	<description>Minimalist .proto files Editor (for Protocol Buffers and gRPC) (feature)</description>
 	
 </project>

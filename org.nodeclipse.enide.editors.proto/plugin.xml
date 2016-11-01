@@ -7,8 +7,8 @@
          point="org.eclipse.ui.editors">
       <editor
             class="org.nodeclipse.enide.editors.proto.editor.Editor"
-            contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"            
-            extensions="prot"
+            contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"
+            extensions="proto"
             icon="icons/proto_16x16.png"
             id="org.nodeclipse.enide.editors.proto.Editor"
             name="proto[col buffers] files Minimalist Editor">
