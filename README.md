@@ -35,6 +35,8 @@ And now there are simple editors for .atom and .groovy/.gy for [Polyglot Maven](
 
 ![](org.nodeclipse.enide.editors.proto/icons/proto_16x16.png)
 
+![](images/Minimalist-proto-files-Editor-screenshot.png)
+
 Well, first the was an idea "I can do an Editor for that", when I looked over *.proto files in a project.
 Then I did a proper research and found [protobuf-dt](https://github.com/google/protobuf-dt) plugin.
 But after trying it for a few days, I found that using it (as of 2016-11-1):
