@@ -57,7 +57,9 @@ Latest version 2.3.0 of protobuf-dt requires at least Neon, while this minimalis
 It took couples of hours to [hard]code/test from within polyglot-maven-editors,
 and 2 more to release all out.
 
-Best regards,
-Paul Verest
-Happy developing!
+Best regards,  
+Paul Verest  
+Happy developing!  
+
+See how [Automatically generate Java from .proto with maven/m2e in Eclipse IDE](http://stackoverflow.com/questions/40426366/automatically-generate-java-from-proto-with-maven-m2e-in-eclipse-ide)
 
