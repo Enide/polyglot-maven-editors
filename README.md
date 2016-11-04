@@ -33,7 +33,7 @@ And now there are simple editors for .atom and .groovy/.gy for [Polyglot Maven](
 
 # Minimalist .proto files Editor (for Protocol Buffers and gRPC)
 
-![](org.nodeclipse.enide.editors.proto/icons/proto_16x16.png)
+![](images/protoEditor-logo.png)
 
 ![](images/Minimalist-proto-files-Editor-screenshot.png)
 
