@@ -5,6 +5,8 @@
 
 ![](images/maven-owl-groovy.png)
 
+see [releases](https://github.com/Enide/polyglot-maven-editors/releases)
+
 This is done to make minimalist Gradle Editor,
 and play with Eclipse Editor API,
 and then maybe find some foundation for Editors in Nodeclipse, but it just as it.
@@ -33,7 +35,8 @@ And now there are simple editors for .atom and .groovy/.gy for [Polyglot Maven](
 
 # Minimalist .proto files Editor (for Protocol Buffers and gRPC)
 
-[![](images/protoEditor-logo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3146377) <-- drop this icon on Eclipse main toolbar to install
+[![](images/protoEditor-logo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3146377) <-- drop this icon on Eclipse main toolbar to install,  
+see [releases](https://github.com/Enide/polyglot-maven-editors/releases)
 
 ![](images/Minimalist-proto-files-Editor-screenshot.png)
 
