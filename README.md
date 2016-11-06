@@ -63,3 +63,7 @@ Happy developing!
 
 See how [Automatically generate Java from .proto with maven/m2e in Eclipse IDE](http://stackoverflow.com/questions/40426366/automatically-generate-java-from-proto-with-maven-m2e-in-eclipse-ide)
 
+PPS. There has been also [Editor plugin made in 2008 by Arno Schmidmeier](https://arno.blogger.de/stories/1191168/) (very close, no preferences, no string highlight, `rpc` and `service` from gPRC not known of course)   
+and [protoclipse](https://code.google.com/archive/p/protoclipse) (not tried).
+
+
