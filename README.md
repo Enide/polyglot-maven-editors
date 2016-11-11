@@ -38,6 +38,8 @@ And now there are simple editors for .atom and .groovy/.gy for [Polyglot Maven](
 [![](images/protoEditor-logo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3146377) <-- drop this icon on Eclipse main toolbar to install,  
 see [releases](https://github.com/Enide/polyglot-maven-editors/releases)
 
+Using [ProtoBuf proto3 version](https://developers.google.com/protocol-buffers/docs/proto3)
+
 ![](images/Minimalist-proto-files-Editor-screenshot.png)
 
 Well, first the was an idea "I can do an Editor for that", when I looked over *.proto files in a project.
