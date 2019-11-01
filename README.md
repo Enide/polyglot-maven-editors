@@ -55,7 +55,7 @@ and validates all files
 
 Part of these issues are possibly be caused by XText approach and limitations, so they likely won't be fixed soon.
 
-XText is not small dependencies, while the whole Minimalist Editor is less than **25KB** in size.
+XText is not small dependency, while the whole Minimalist Editor is less than **25KB** in size.
 
 Latest version 2.3.0 of protobuf-dt requires at least Neon, while this minimalist Editor should work from Neon downto Kepler "and beyond".
 
