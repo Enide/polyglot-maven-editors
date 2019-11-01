@@ -35,7 +35,7 @@ And now there are simple editors for .atom and .groovy/.gy for [Polyglot Maven](
 
 # Minimalist .proto files Editor (for Protocol Buffers and gRPC)
 
-[![](images/protoEditor-logo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3146377) <-- drop this icon on Eclipse main toolbar to install, or visit <https://marketplace.eclipse.org/node/3739198>  
+[![](images/protoEditor-logo.png)](http://marketplace.eclipse.org/marketplace-client-intro?mpc_install=3146377) <-- drop this icon on Eclipse main toolbar to install, or visit <https://marketplace.eclipse.org/node/3146377>  
 see [releases](https://github.com/Enide/polyglot-maven-editors/releases)
 
 Using [ProtoBuf proto3 version](https://developers.google.com/protocol-buffers/docs/proto3)
