@@ -16,6 +16,10 @@ And now there are simple editors for .atom and .groovy/.gy for [Polyglot Maven](
 
 ## Using
 
+Build locally with maven `mvn package`,
+then check for update site archive in `org.nodeclipse.enide.editors.pom.site/target/`
+
+In running Eclipse IDE, choose Help -> Install and choose the update site archive.
 
 ## To Develop
 
